@@ -2,6 +2,9 @@
 
 Flutter application that shows random qoutes which can motivate people.
 
+# Screenshot of application
+![](images/Screenshot_20190714-222903.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
