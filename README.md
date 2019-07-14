@@ -1,6 +1,6 @@
-# my_new_app
+# QuoteMotivates
 
-A new Flutter application.
+Flutter application that shows random qoutes which can motivate people.
 
 ## Getting Started
 
