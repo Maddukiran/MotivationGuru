@@ -3,7 +3,7 @@
 Flutter application that shows random qoutes which can motivate people.
 
 # Screenshot of application
-![](images/Screenshot_20190714-222903.jpg)
+<img src="images/Screenshot_20190714-222903.jpg" width="100" height="100">
 
 ## Getting Started
 
